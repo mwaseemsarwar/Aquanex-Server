@@ -12,6 +12,7 @@ services:
     environment:
       - REDIS_URL=redis://redis:6379/0
       - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - GITHUB_TOKEN=${GITHUB_TOKEN}
       - APP_ENV=production
     ports:
       - "8000:8000"
