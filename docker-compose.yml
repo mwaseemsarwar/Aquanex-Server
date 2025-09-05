@@ -1,0 +1,36 @@
+version: "3.9"
+
+services:
+  api:
+    build:
+      context: ./app
+      dockerfile: Dockerfile
+    container_name: aquanex_fastapi_app
+    restart: unless-stopped
+    depends_on:
+      - redis
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - APP_ENV=production
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./app:/app
+    labels:
+      maintainer: "UjjwalS <ujjwal0007@gmail.com>"
+      project: "Aqunex-Server"
+      website: "https://ujjwalsaini.dev"
+      copyright: "© 2025 Aqunex-Server"
+
+  redis:
+    image: redis:7.2-alpine
+    container_name: redis_server
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+
+volumes:
+  redis_data:
